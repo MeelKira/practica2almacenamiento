@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica_Almacenamiento</string>
+    <string name="actualziar_registro">Actualziar registro</string>
+    <string name="guardar_registro">Guardar registro</string>
+    <string name="leer_registros">Leer registros</string>
+    <string name="eliminar_registro">Eliminar registro</string>
+    <string name="aqui_se_despliegan_los_registros">Aqui se despliegan los registros</string>
+    <string name="Nombre_completo">nombre completo</string>
+    <string name="Edad">edad</string>
+</resources>
